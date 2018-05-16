@@ -9,3 +9,9 @@ chocolateBars.unshift("test_2");
 //add elements optionals
 var nuevo= [...chocolateBars,"test3"]
 
+
+function addElementToBeginningOfArray(elemt,arry){
+
+  
+}
+        
