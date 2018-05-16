@@ -14,4 +14,9 @@ function addElementToBeginningOfArray(elemt,arry){
 
   
 }
+
+function addElementToBeginningOfArray(elemt,arry){
+
+  
+}
         
