@@ -5,3 +5,7 @@ chocolateBars.push("test");
 
 //first position
 chocolateBars.unshift("test_2");
+
+//add elements optionals
+var nuevo= [...chocolateBars,"test3"]
+
