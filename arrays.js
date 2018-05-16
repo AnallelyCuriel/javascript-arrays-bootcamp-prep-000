@@ -1,4 +1,7 @@
 var chocolateBars = new ["snickers","hundred grand","kitkat","skittles"]
 
 
-chocolateBars.push("");
+chocolateBars.push("test");
+
+
+chocolateBars.unshift("test_2");
